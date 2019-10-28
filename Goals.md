@@ -1,2 +1,3 @@
-##Goals
--[ ]Reach Expert
+## Goals
+
+- [ ] Reach Expert
